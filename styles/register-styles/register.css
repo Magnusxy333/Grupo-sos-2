@@ -1,0 +1,140 @@
+body{
+    background-color: aliceblue;
+}
+
+  /*///////////////*/
+  
+  .contect-login{
+    display: grid;
+    place-items: center;
+  }
+  
+  .login-countainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-color: aliceblue;
+   
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+  }
+   
+  .box{
+    background-color: aliceblue;
+   
+    border: 2px solid;
+    border-radius: 10px;
+   
+    padding: 40px;
+  }
+   
+  .login-title{
+    margin-bottom: 10px;
+    display: grid;
+    place-items: center;
+  }
+   
+  #input{
+    padding-left: 3px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+    border-radius: 10px;
+  }
+   
+  .input2{
+    padding-left: 3px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+    border-radius: 10px;
+  }
+   
+  .login-link{
+    color: green;
+    font-size: 13px;
+    margin-right: 10px;
+   
+    font-family: arial;
+  }
+   
+  .login-button{
+    background-color: lightgreen;
+   
+    padding: 7px;
+   
+    margin-top: 15px;
+   
+    border-radius: 10px;
+   
+    cursor: pointer;
+  }
+   
+  .login-button:hover{
+    background-color: rgb(181, 245, 181);
+  }
+   
+  .login-button:active{
+    background-color: rgb(209, 240, 209);
+  }
+   
+  .box-resgister{
+    background-color: aliceblue;
+   
+    margin-top: 15px;
+   
+    padding-left: 3px;
+    padding-right: 4px;
+    padding-top: 5px;
+    padding-bottom: 35px;
+   
+    border: 2px solid;
+    border-radius: 10px;
+  }
+   
+  .align-register{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    font-family: roboto;
+    font-size: 20px;
+   
+    margin-top: 30px;
+  }
+   
+  .align-register2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    font-family: roboto;
+    font-size: 15px;
+   
+    margin-top: 10px;
+  }
+   
+  .link2{
+    color: darkgreen;
+  }
+  
+  .text-log{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 10px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    margin-top: 15px;
+  
+    color: blue;
+  
+  }
